@@ -54,6 +54,8 @@ Structure is like this:
 - area: Regional information
 - hpv: Country-specific HPV Vaccination coverage (first dose) in female (from Ref.2)
 
+<br>
+
 ## 3. References
  
 1. Minpapi Projects [<a href="https://minpapi.jp/">Website</a>]
