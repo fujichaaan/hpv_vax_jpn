@@ -2,6 +2,8 @@
 This page curates codes and figs for highlighting low HPV (Human Papilloma Virus) vaccination coverage in Japan.<br>
 The following figure is uploaded on twitter on April 1st, 2023, the day for HPV 9-valent vaccine covered by public healthcare expenditure in Japan.
 
+<br>
+
 ![Final_eng](https://user-images.githubusercontent.com/19466700/227751121-3fc209f4-4d12-48bb-a7eb-7f5f8e7cc56d.jpeg)
 
 <br>
