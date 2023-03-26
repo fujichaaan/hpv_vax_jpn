@@ -1,24 +1,24 @@
-# HPV VAX Coverage in JPN 🇯🇵
-This page is curated code and figs for HPV (Human Papilloma Virus) vaccination coverage in Japan.<br>
-The following figure is upload on twitter on April 1st, 2023, the day for HPV 9-valent vaccine funded by public healthcare expenditure in Japan.
+# Low Coverage of HPV VAX in JPN 🇯🇵
+This page curates codes and figs for highlighting low HPV (Human Papilloma Virus) vaccination coverage in Japan.<br>
+The following figure is uploaded on twitter on April 1st, 2023, the day for HPV 9-valent vaccine covered by public healthcare expenditure in Japan.
 
 ![Final_eng](https://user-images.githubusercontent.com/19466700/227751121-3fc209f4-4d12-48bb-a7eb-7f5f8e7cc56d.jpeg)
 
 <br>
 
 ## 1. The main message 
-The coverage for first dose in Japan was quite low (0.3%) in 2019 compared with other countries". Even though it was back to 14.4% (Reports from Minpapi project 2021), there is still a huge gap between other high-income countries.
+The coverage of the first dose in Japan was quite low (0.3%) in 2019 compared with other countries. It was 98th of 99 countries. Even though it has been getting back to 14.4% (Reports from Minpapi project 2021), there is still a huge gap between other high-income countries.
 
 <br>
 
 ## 2. Original dataset and plots
 - R code for 日本語 is <a href="https://github.com/fujichaaan/hpv_vax_jpn/blob/main/code_jpn.R">HERE</a><br>
 - R code for English is <a href="https://github.com/fujichaaan/hpv_vax_jpn/blob/main/code_eng.R">HERE</a>
-- Dataset is <a href="https://github.com/fujichaaan/hpv_vax_jpn/blob/main/hpv2.csv">here</a>
+- Dataset is <a href="https://github.com/fujichaaan/hpv_vax_jpn/blob/main/hpv2.csv">HERE</a>
 
 <br> 
 
-Structure is like this:
+Data structure is like this:
 
 <table>
     <tr>
@@ -63,7 +63,8 @@ Structure is like this:
 
 <br>
 
-## 4. Questions/Bugs
+## 4. Questions/COI
+There are no conflicts of interest to be declared regarding this page.<br>
 If you find any mistakes/bugs on this page and code, please contact me via e-mail.
 
 <b>Ryosuke FUJII, PhD</b><br>
